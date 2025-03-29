@@ -5,8 +5,8 @@ Welcome to my corner of GitHub! I’m a developer, tinkerer, and tech optimist w
 ## 🚀 What I'm Up To
 
 - 🧠 **Building [Behavior Tally](https://behaviortally.com)** – A modern, BCBA-inspired tool to collect behavior data with style and efficiency.
-- 🧙 **Learning Odin Language** – Because who doesn’t want to write fast, clean, and expressive code while feeling like a systems programming wizard?
-- 🎮 **Diving into Game Dev** – Experimenting with game mechanics, pixel art, and engines. Expect some quirky projects and prototypes here soon!
+- 🧙 **Learning Odin Language** – Because who doesn’t want to write fast, clean, and expressive code?
+- 🎮 **Diving into Game Dev** – Experimenting with game mechanics, pixel art, and engine development. Expect some quirky projects and prototypes here soon!
 
 ## 🛠️ Tools & Tech I Like
 
