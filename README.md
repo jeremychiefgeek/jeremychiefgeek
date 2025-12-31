@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! I’m a developer, tinkerer, and tech optimist w
 ## 🛠️ Tools & Tech I Like
 
 - Languages: C, C++, C#, TypeScript, Lua
-- Tools: Neovim
+- Tools: Neovim, Visual Studio (Debugging)
 - Favorite debugging tool: Swearing (followed by reading docs)
 
 ## 📫 Let's Connect!
